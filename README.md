@@ -6,7 +6,7 @@ I created some Python scripts to convert geospatial files in order to speed up t
 
 Each conversion tool is through Jupyter Notebook. You should have the notebook installed in your Python working environment. Anaconda prompts is my go to option.
 
-Ideally, you should have a specific working environment for your task. In terms of needed Python modules, I have included them in the text file. You can install these modules in your working environment using "pip install -r Python_Required_Modules.txt."
+Ideally, you should have a specific working environment for your task. In terms of needed Python modules, I have included them in the text file. You can install these modules in your working environment using "pip install -r Python_Required_Modules.txt." Certainly, you don't need all these modules to run the tools; however, you will most likely need some of these modules for your geospatial analyses. It is just great to install them together.
 
 ### Available to use tools:
 
